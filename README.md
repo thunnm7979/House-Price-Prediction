@@ -26,7 +26,6 @@ Predicting home sale prices in Ames, Iowa with a multiple linear regression mode
 |---|---|
 | `Kaggle_Project_Thu_Nguyen_Part_2.ipynb` | Full analysis: EDA, cleaning, regression model |
 | `train.csv` | Kaggle House Prices training data (1,460 rows) |
-| `train_updated.csv` | Alternate version of the data (no `Id` column, 16 extra duplicate rows); not used by the notebook |
 | `requirements.txt` | Python packages |
 
 ## How to run
